@@ -9,7 +9,7 @@
 
 ### 📊 Project Presentation
 
-[![발표 자료 표지](https://github.com/PrintMini/POSCAM/raw/main/docs/POSCAM_cover.png)](https://github.com/PrintMini/POSCAM/blob/main/docs/POSCAM_Presentation.pdf)
+[![발표 자료 표지](https://github.com/PrintMini/POSCAM/raw/main/docs/POSCAM_Presentation.png)](https://github.com/PrintMini/POSCAM/blob/main/docs/POSCAM_Presentation.pdf)
 > 💡 **위 이미지를 클릭**하시면 전체 PDF 발표 자료(40p)를 확인하실 수 있습니다.
 
 ---
